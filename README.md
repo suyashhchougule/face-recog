@@ -1,1 +1,1 @@
-# face-recog
+# face-recognition
